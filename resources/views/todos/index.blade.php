@@ -9,6 +9,16 @@
 <body>
     <h1>This is the Todos page</h1>
 
+    @foreach($todos as $todo) 
+    <ul>
+        <li>
+            {{ $todo->name }}
+    
+        </li>
+    </ul>
+
+
+    @endforeach
     
 </body>
 </html>
