@@ -22,6 +22,9 @@
                     <li class="nav-item active">
                       <a class="nav-link" href="/todos-app/public/todos">Todos <span class="sr-only">(current)</span></a>
                     </li>
+                    <li class="nav-item active">
+                        <a class="nav-link" href="/todos-app/public/new-todos">Create Todo <span class="sr-only">(current)</span></a>
+                    </li>
                     
 
                   </ul>
